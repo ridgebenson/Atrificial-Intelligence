@@ -1,8 +1,9 @@
 ## Atrificial-Intelligence
-This repository contains code relevant to a unit in my coursework "Artificial Intelligence"
-### Files
-The first initial files i.e. <br>
-<a href="https://github.com/RBeNturi/Atrificial-Intelligence/blob/master/tic-tac-toe-game.py">Tic-Tac_Toe Game </a> <br>
-<a href=https://github.com/RBeNturi/Atrificial-Intelligence/blob/master/tic-tac-toe-game-algorithm.py>Tic-Tac-Toe Game Algorithm </a> <br>
-represent an *Intelligent Agent*
-The GUI version of the Tic Tac Toe game is provided as well.
+This repository contains code relevant to the concept of ***Intelligent Agents*** in ***Artificial Intelligence***.
+## This repo's files
+Are a simple respresntation of an intelligent agent in a tic-tac-toe game in Python, ranging from the algorithm for the tic-tac-toe game, its implementation, and a GUI version of the game.
+## Machine Learning
+### Classification
+[Classification](https://github.com/RBeNturi/Classification)
+### Machine Learning Algorithms
+[Machine Learning Algorithms](https://github.com/RBeNturi/Linear_Regression_Problem)
